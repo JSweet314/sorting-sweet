@@ -1,6 +1,6 @@
 ## Synopsis
 
-This repo contains a suite of common sorting algorithms taught in computer science courses, inclusive of bubble sort, insertion sort, merge sort, and quick sort.
+This repo contains a suite of sorting algorithms commonly taught in computer science courses, inclusive of bubble sort, insertion sort, merge sort, and quick sort.
 
 ## Motivation
 
