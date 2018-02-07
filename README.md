@@ -1,14 +1,10 @@
 ## Synopsis
 
-This repo contains a suite of sorting algorithms commonly taught in computer science courses, inclusive of bubble sort, insertion sort, merge sort, and quick sort.
+This project contains a suite of sorting algorithms commonly taught in computer science courses, inclusive of bubble sort, insertion sort, merge sort, and quick sort.
 
 ## Motivation
 
-This project was created as practice for finding algorithmic solutions to a problem and turn that algorithm in to functioning code.
-
-## Installation
-
-This project can be imported as an npm module to any project requiring a specific sorting algorithm by using the remote github http address.
+This project was created as practice for finding an algorithmic solution to a problem and turn that algorithm in to working code.
 
 ## Tests
 
