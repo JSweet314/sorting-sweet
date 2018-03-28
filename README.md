@@ -4,7 +4,7 @@ This project contains a suite of sorting algorithms commonly taught in computer 
 
 ## Motivation
 
-This project was created as practice for finding an algorithmic solution to a problem and turn that algorithm in to working code.
+This project was created as practice for finding an algorithmic solution to a problem and turning that algorithm in to working code.
 
 ## Tests
 
